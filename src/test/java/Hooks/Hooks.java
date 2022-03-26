@@ -71,7 +71,7 @@ public class Hooks {
 //        }
 //        //Driver.closeDriver();
 
-    @After
+   // @After
     public void tearDown(Scenario scenario) {
 
         byte[] screenshot;

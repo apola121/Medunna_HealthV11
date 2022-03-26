@@ -144,7 +144,9 @@ Starr,Fahey,028-85-0933
 Pat,Crona,420-14-6104
 Jere,Lind,770-06-2723
 Ollie,Mosciski,271-51-4856
+Jerry,Yost,165-68-8806
 Francoise,Keeling,569-99-2260
 Whitney,Swift,528-31-2667
 Chung,Hagenes,119-17-9792
 Thi,Keebler,171-84-8363
+Lon,Osinski,034-49-8158
