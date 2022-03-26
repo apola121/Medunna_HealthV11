@@ -1,6 +1,6 @@
 Feature: E2E_DB
 
- // @SmokeTestDB @DBPhysician
+  @SmokeTestDB @DBPhysician
   Scenario Outline:  physician data with DB
     Given user sends the physician query "<query>" to DB
     And user saves physician  data in correspondent files

@@ -1,6 +1,6 @@
 Feature: Physician test
 
-  @SmokeTestAPI @SmokeTestDB @PhysicianUI
+ // @SmokeTestAPI @SmokeTestDB @PhysicianUI
 
   Scenario Outline: test physician
     Given user is on Medunna Health website
